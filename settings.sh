@@ -1,4 +1,3 @@
-echo "Setting operator env"
 export GO111MODULE=on
 
 export APP_NAME=gramophone
